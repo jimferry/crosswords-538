@@ -14,3 +14,5 @@ connected to which (higher up in the partial grid).
 
 The .nb and .m files are essentially identical, except that ccExample.nb contains the results of sample calculations that can be
 performed with CrosswordCounts, whereas ccExample.m leaves the sample calculations unevaluated.
+
+The slides in Crossword Counts.pdf provide a summary of the algorithm and a gallery of results.
